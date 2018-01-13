@@ -1,0 +1,53 @@
+body{
+    background: white;
+}
+main {
+    margin-top: 100px;
+    text-align:  center;
+}
+
+h1.feed-title {
+    font-size: 80px;
+    color: grey;
+    margin-bottom: 20px;
+}
+.card-container {
+    width: 60%;
+    margin:  auto;
+    margin-bottom:  15px;
+    border:  solid 1px grey;
+    border-radius:  4px;
+    padding: 20px;
+    display:  flex;
+}
+
+.card-container > img {
+    height: 100px;
+    margin: 19px;
+    margin-top: 43px;
+}
+
+.card-text-container {
+    width: 70%;
+    text-align: center;
+}
+
+.card-text-container >h4 {
+    margin: 0px;
+    font-size:  20px;
+    color: #3eaac5;
+}
+
+p {
+    text-align:  left;
+    color: grey;
+}
+
+.see-more-container {
+    text-align: center;
+}
+
+.see-more-container > a {
+    color: #3eaac5;
+    text-decoration: none;
+}

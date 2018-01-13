@@ -1,0 +1,28 @@
+body{
+    background: white;
+}
+
+.profile-text-container {
+    margin: auto;
+    margin-top: 10%;
+    width: 68%;
+    text-align: center;
+}
+.profile-text-container > h1 {
+    font-size: 80px;
+    margin-bottom: 80px;
+    color: grey;
+}
+.greeting-container > h2 {
+    padding-right: 10pc;
+    font-size: 45px;
+    color: #3eaac5;
+    margin-bottom: 5px;
+}
+
+.greeting-container > h3 {
+    padding-left: 14pc;
+    font-size: 40px;
+    margin-top: 14px;
+    color: #3eaac5;
+}

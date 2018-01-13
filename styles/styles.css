@@ -1,0 +1,30 @@
+html{
+    height: 100vh;
+}
+body{
+    margin:0px;
+    font-family: 'Montserrat', sans-serif;
+}
+header.header {
+    width: 100%;
+    background: rgba(86, 86, 86, 0.8);
+    display:  flex;
+    justify-content: flex-end;
+    padding: 20px;
+    padding-bottom: 10px;
+    position: fixed;
+    top: 0;
+}
+
+header.header button {
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 35px;
+    border: none;
+    font-size: 24px;
+    background:  transparent;
+    color: #3eaac5;
+}
+header.header button:hover {
+    cursor: pointer;
+    color: #3c9bb3;
+}
